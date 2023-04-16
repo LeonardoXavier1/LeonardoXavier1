@@ -30,7 +30,11 @@
     <a href="https://www.instagram.com/leonardo.mthsx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
     
-  
+  <div align="center">
+  <br><p align="centre"><b>Contagem de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeonardoXavier1}/count.svg" /></p> 
+  <br>
+</div>
     
 </div>
   
