@@ -2,8 +2,8 @@
 <a href="https://picrew.me/ja/image_maker/188948"><img align="left" height="100px" width="100px" style="margin-right:10px;margin-top:5px" src="ezgif-4-bf859129fb.gif"></a>
 ##
 &nbsp;&nbsp;🏹 • estudando atualmente na UNISC<br>
-&nbsp;&nbsp;📚 • estudante de engenharia da computação atualmente no TERCEIRO SEMESTRE!!<br>
-&nbsp;&nbsp;📚 • aprendendo JAVA/ JS/ FLUTTER/ HTML/ CSS/ pela imply®
+&nbsp;&nbsp;📚 • estudante de ciência da computação atualmente no QUARTO SEMESTRE !!<br>
+&nbsp;&nbsp;📚 • aprendendo JAVA/ JS/ FLUTTER/ HTML/ CSS/ PHP/ SQL/ pela imply®
 
 
 
