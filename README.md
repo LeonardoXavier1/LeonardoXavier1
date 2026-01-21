@@ -3,7 +3,7 @@
 ##
 &nbsp;&nbsp;🏹 • estudando atualmente na UNISC<br>
 &nbsp;&nbsp;📚 • estudante de ciência da computação atualmente no SÉTIMO SEMESTRE !!<br>
-&nbsp;&nbsp;📚 • aprendendo JAVA/ JS/ FLUTTER/ HTML/ CSS/ PHP/ SQL/ pela imply®
+&nbsp;&nbsp;📚 • especialista em JAVA/ JS/ FLUTTER/ HTML/ CSS/ PHP/ SQL/ pela imply®
 
 
 
