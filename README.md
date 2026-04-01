@@ -1,47 +1,76 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=393d38&size=35&center=true&vCenter=true&width=1000&lines=Olá+Meu+Nome+é+Leonardo+😎)](https://git.io/typing-svg)
-<a href="https://picrew.me/ja/image_maker/188948"><img align="left" height="100px" width="100px" style="margin-right:10px;margin-top:5px" src="ezgif-4-bf859129fb.gif"></a>
-##
-&nbsp;&nbsp;🏹 • estudando atualmente na UNISC<br>
-&nbsp;&nbsp;📚 • estudante de ciência da computação atualmente no SÉTIMO SEMESTRE !!<br>
-&nbsp;&nbsp;📚 • especialista em JAVA/ JS/ FLUTTER/ HTML/ CSS/ PHP/ SQL/ pela imply®
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Leonardo+Vieira+👨‍💻;Senior+Flutter+Developer+🚀;Mobile+%7C+Web+%7C+Multiplataforma)](https://git.io/typing-svg)
 
 
 ##
+&nbsp;&nbsp;🚀 • **Senior Flutter Developer (5+ anos de experiência)**  
+&nbsp;&nbsp;💼 • Atualmente na **Imply Tecnologia**  
+&nbsp;&nbsp;🧠 • Foco em **arquitetura, performance e escalabilidade**  
+&nbsp;&nbsp;📱 • Apps **Mobile & Web multiplataforma**  
+&nbsp;&nbsp;🌎 • Buscando oportunidades **remotas ou em Florianópolis**  
 
-<div>
-  <a href="https://github.com/LeonardoXavier1">
-  <img height="145px"   align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoXavier1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145x"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoXavier1&layout=compact&langs_count=7&theme=dark" />
+---
 
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    
- ##
-    
- <div> 
-    <a href="https://www.linkedin.com/in/leonardo-matheus-xavier-vieira-28a653234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-    
-  <div align="center">
-  <br><p align="centre"><b>Contagem de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeonardoXavier1}/count.svg" /></p> 
-  <br>
-</div>
-    
-</div>
-  
-  ![](https://github.com/LeonardoXavier1/snk/raw/output/github-contribution-grid-snake.svg)
-  
+## ⚙️ Tech Stack
+
+<div align="center"> 
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
- 
-    
 
- 
+🔌 **Integrações:** REST APIs • WebSockets  
+🧱 **Arquitetura:** Clean Architecture • SOLID  
+🧠 **Estado:** Provider • Riverpod • ChangeNotifier  
+🧪 **Qualidade:** Testes unitários • Widget tests • CI/CD  
+🛠 **Ferramentas:** Git • Figma • SQLite • Scrum/Kanban  
+
+---
+
+## 💼 Experiência
+
+**🏢 Imply Tecnologia (2023 - Atual)**  
+- Desenvolvimento de aplicações Flutter em produção  
+- Arquitetura modular e escalável  
+- Comunicação em tempo real com WebSockets  
+- CI/CD e garantia de qualidade contínua  
+
+**🌐 Freelancer (2021 - 2023)**  
+- Apps e sistemas sob demanda  
+- MVPs, dashboards e sistemas internos  
+- Integração com APIs REST  
+- Contato direto com clientes  
+
+---
+
+## 🧩 Projetos
+
+### 📡 Real-Time Remote Panel Manager
+Sistema de controle e gerenciamento remoto de painéis eletrônicos distribuídos em múltiplas regiões do Brasil.
+
+- Comunicação em tempo real via WebSockets com baixa latência
+- Arquitetura modular escalável (Clean Architecture)
+- Gerenciamento simultâneo de múltiplos dispositivos
+- Foco em performance, confiabilidade e operação contínua (produção)
+
+---
+
+### 📊 Dashboard Administrativo Multiplataforma
+Plataforma administrativa para gerenciamento centralizado de dispositivos e operações.
+
+- Interface responsiva com Flutter Web (desktop-first)
+- Integração com APIs REST e atualização de dados em tempo real
+- Componentização e reutilização de UI para escalabilidade
+- Utilizado para monitoramento e controle operacional em ambiente real 
+
+---
+
+## 🌍 Contato
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/leonardoxaviervieira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
