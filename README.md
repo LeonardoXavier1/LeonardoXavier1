@@ -2,7 +2,7 @@
 
 
 ##
-&nbsp;&nbsp;🚀 • **Senior Flutter Developer (5+ anos de experiência)**  
+&nbsp;&nbsp;🚀 • **Flutter Developer (5+ anos de experiência)**  
 &nbsp;&nbsp;💼 • Atualmente na **Imply Tecnologia**  
 &nbsp;&nbsp;🧠 • Foco em **arquitetura, performance e escalabilidade**  
 &nbsp;&nbsp;📱 • Apps **Mobile & Web multiplataforma**  
